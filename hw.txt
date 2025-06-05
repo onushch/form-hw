@@ -1,0 +1,13 @@
+Поля для реєстраційної форми
+
+Ім'я користувача (firstName)
+Фамілія користувача(lastName)
+Електронна пошта (Email)
+Пароль (Password)
+Підтвердження пароля (Confirm Password)
+Дата народження (Date of Birth)
+Стать (Gender)
+Країна проживання (Country)
+Номер телефону (Phone Number)
+Погодження з умовами використання (Terms and Conditions)
+Про себе (About Me)
